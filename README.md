@@ -3,6 +3,9 @@
 ## Available Collections
 
 - [**Testing API of reqres.in** (with Runner)](collections/reqres.postman_collection.json)
+    
+    Also you can check **[Test Cases](https://github.com/Sn4pqt/test_cases)**, **[Check List](https://github.com/Sn4pqt/checklists)** and **[Bug Reports](https://github.com/Sn4pqt/bug_reports)** from this collection.
+
 
 ## How to Use
 
